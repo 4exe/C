@@ -1,0 +1,5 @@
+This file is made to check if my function can 
+
+read this txt file properly or not
+
+with these spaces intact
