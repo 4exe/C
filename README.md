@@ -1,3 +1,5 @@
-# C
- 
-From Book of C
+# C Programming Language
+
+## By Brain W. Kernighan & Dennis M. Ritchie
+
+### Contentsx
