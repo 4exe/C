@@ -2,4 +2,8 @@
 
 ## By Brain W. Kernighan & Dennis M. Ritchie
 
-### Contentsx
+### Contents
+
+<!--extern variable
+    garbage values
+     -->
